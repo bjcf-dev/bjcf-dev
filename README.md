@@ -1,3 +1,17 @@
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=750&height=50&lines=Hello,+I'm+Billy;I'm+a+Backend+Developer;I'm+Focusing+on+DevOps;I'm+Specializing+in+Rust,+Blockchain+Development+%26+Web3">
+</p>
+
+<h3 align="center">Software developer | Backend | Cloud & Web3 Infrastructure </h3>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=bjcf-dev&label=Profile%20views&color=0e75b6&style=flat" alt="bjcf-dev" width="130"/> 
+</p>
+
+<img align="right" alt="coding" width="420" src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=1000&auto=format&fit=crop">
+
 :gb: / :us:
 # 💫 About Me
 
@@ -9,16 +23,16 @@ Hello! I am a **Backend Developer** specializing in **Cloud/DevOps Infrastructur
 
 ---
 
-# 💻 Technical Stack
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bjcf/)
 
-### ⚙️ Core & Systems Development
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+---
 
-### ☁️ DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🗄️ Databases & Aggregators
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+<h2 align="center">Technical Stack</h2> 
+<p align="center">
+  <img width="500px" src="https://skillicons.dev/icons?i=rust,java,spring,py,docker,git,linux,postgres,mysql,mongodb,graphql&perline=6" alt="My Tech Stack" />
+</p>
+<br />
 
 ---
 
