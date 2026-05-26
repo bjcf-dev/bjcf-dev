@@ -15,11 +15,12 @@
 :gb: / :us:
 # 💫 About Me
 
-Hello! I am a **Backend Developer** specializing in **Cloud/DevOps Infrastructure and Web3 Systems**. With solid foundations in Object-Oriented Programming (OOP), software design patterns, and application development (DAW graduate), I am currently focusing on high-performance environments using **Rust**, containerization, and distributed ledger technologies.
+Hello! I'm a Backend Developer with a strong foundation in backend architecture, infrastructure automation, and full-stack web application development. Hands-on experience building and deploying scalable applications with Java, Node.js, and Docker, and currently deepening expertise in high-performance systems using Rust and decentralized infrastructure.
+I bring a DevSecOps mindset — blending software engineering, cybersecurity, and infrastructure automation to deliver secure, efficient systems. My background in regulated, high-stakes environments has shaped a disciplined approach to data integrity, analytical problem-solving, and process rigor.
 
-* 🔭 **Currently focused on:** Building high-availability backend services, implementing secure CI/CD pipelines, and mastering blockchain node infrastructure.
-* 🌱 **Deepening knowledge in:** Rust (Axum, Foundry), Kubernetes, and Systems Security (TEEs/Sandboxing).
-* 🚀 **Long-term goal:** To build next-generation infrastructure for secure decentralized systems and SaaS high-performance platforms.
+🔭 Currently focused on: Building high-availability backend services, secure CI/CD pipelines, and blockchain node infrastructure.
+🌱 Deepening knowledge in: Rust (Axum, Foundry), Kubernetes, and Systems Security (TEEs/Sandboxing).
+🚀 Long-term goal: To architect next-generation infrastructure for secure decentralized systems and high-performance SaaS platforms.
 
 ---
 
@@ -39,11 +40,12 @@ Hello! I am a **Backend Developer** specializing in **Cloud/DevOps Infrastructur
 :es:
 # 💫 Acerca de mí
 
-¡Hola! Soy un **Desarrollador Backend** enfocado en **Infraestructura Cloud/DevOps y Sistemas Web3**. Con bases sólidas en Programación Orientada a Objetos (POO), patrones de diseño y desarrollo de aplicaciones (titulado en DAW), actualmente me estoy especializando en entornos de alto rendimiento utilizando **Rust**, contenerización y tecnologías de registro distribuido.
+¡Hola! Soy un Desarrollador Backend con bases sólidas en arquitectura backend, automatización de infraestructura y desarrollo de aplicaciones web full-stack. Tengo experiencia práctica construyendo y desplegando aplicaciones escalables con Java, Node.js y Docker, y actualmente profundizo en sistemas de alto rendimiento con Rust e infraestructura descentralizada.
+Trabajo con una mentalidad DevSecOps — integrando ingeniería de software, ciberseguridad y automatización de infraestructura para entregar sistemas seguros y eficientes. Mi trayectoria en entornos de alta exigencia ha forjado un enfoque riguroso en integridad de datos, resolución analítica de problemas y disciplina de procesos.
 
-* 🔭 **Enfoque actual:** Construcción de servicios backend de alta disponibilidad, pipelines de CI/CD automatizados e infraestructura de nodos blockchain.
-* 🌱 **Profundizando en:** Rust (Axum, Foundry), Kubernetes y Seguridad de Sistemas (TEEs/Sandboxing).
-* 🚀 **Meta a largo plazo:** Desarrollar la infraestructura de próxima generación para sistemas descentralizados seguros y plataformas SaaS de alto rendimiento.
+🔭 Enfoque actual: Servicios backend de alta disponibilidad, pipelines CI/CD seguros e infraestructura de nodos blockchain.
+🌱 Profundizando en: Rust (Axum, Foundry), Kubernetes y Seguridad de Sistemas (TEEs/Sandboxing).
+🚀 Meta a largo plazo: Diseñar infraestructura de próxima generación para sistemas descentralizados seguros y plataformas SaaS de alto rendimiento.
 
 ---
 
