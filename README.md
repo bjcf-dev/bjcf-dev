@@ -118,7 +118,3 @@ Guiado por el rigor de procesos y la seguridad, actualmente me estoy enfocando e
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bjcf-dev&theme=tokyonight&hide_border=false" width="480" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bjcf-dev&theme=tokyonight&area=true&category=commits" width="850" alt="Billy's GitHub Activity Graph" />
-</p>
