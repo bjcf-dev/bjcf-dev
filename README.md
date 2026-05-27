@@ -1,13 +1,14 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+<!-- BANNER PRINCIPAL CORREGIDO A RUTA RAW -->
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/raw/main/banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=750&height=50&lines=Hello,+I'm+Billy;I'm+a+Backend+Developer;I'm+Focusing+on+DevOps;I'm+Specializing+in+Rust,+Blockchain+Development+%26+Web3">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=750&height=50&lines=Hello,+I'm+Billy;I'm+a+Backend+Developer;I'm+Focusing+on+DevOps;I'm+Specializing+in+Rust,+Blockchain+Development+%26+Web3" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Software developer | Backend | Cloud & Web3 Infrastructure </h3>
+<h3 align="center">Software Developer | Backend | Cloud & Web3 Infrastructure</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=bjcf-dev&label=Profile%20views&color=0e75b6&style=flat" alt="bjcf-dev" width="130"/> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bjcf-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="130"/>
 </p>
 
 <img align="right" alt="coding" width="420" src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=1000&auto=format&fit=crop">
@@ -15,52 +16,109 @@
 :gb: / :us:
 # 💫 About Me
 
-Hello! I'm a Backend Developer with a strong foundation in backend architecture, infrastructure automation, and full-stack web application development. Hands-on experience building and deploying scalable applications with Java, Node.js, and Docker, and currently deepening expertise in high-performance systems using Rust and decentralized infrastructure.
-I bring a DevSecOps mindset — blending software engineering, cybersecurity, and infrastructure automation to deliver secure, efficient systems. My background in regulated, high-stakes environments has shaped a disciplined approach to data integrity, analytical problem-solving, and process rigor.
+Hello! I'm a Software Developer focused on building secure, efficient systems and specializing in the Rust & Web3 ecosystem. With a solid foundation in Java, Node.js, and Full-Stack web development, I combine software engineering with a strong Linux/DevOps mindset—frequently leveraging Docker to isolate environments, databases, and microservices.
 
-🔭 Currently focused on: Building high-availability backend services, secure CI/CD pipelines, and blockchain node infrastructure.
-🌱 Deepening knowledge in: Rust (Axum, Foundry), Kubernetes, and Systems Security (TEEs/Sandboxing).
-🚀 Long-term goal: To architect next-generation infrastructure for secure decentralized systems and high-performance SaaS platforms.
+Driven by process rigor and system security, I am currently transitioning towards Blockchain development, deep-diving into Rust and smart contracts.
+
+* 🔭 **Current Focus:** Crafting robust REST APIs and learning Solana/Anchor framework through hands-on decentralized applications.
+* 🌱 **Deepening knowledge in:** Advanced Rust, Web3 architectures, and PostgreSQL.
+* 🚀 **Long-term goal:** To architect next-generation high-performance infrastructure for decentralized networks and secure SaaS platforms.
 
 ---
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bjcf/)
+<p align="left">
+  <a href="https://linkedin.com/in/bjcf/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-<h2 align="center">Technical Stack</h2> 
+<h2 align="center">💼 Professional Skills & Tech Stack</h2>
+
 <p align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=rust,java,spring,py,docker,git,linux,postgres,mysql,mongodb,graphql&perline=6" alt="My Tech Stack" />
+  <a href="#-blockchain--web3-current-focus">Blockchain</a> • 
+  <a href="#-backend-development">Backend</a> • 
+  <a href="#-frontend-development">Frontend</a> • 
+  <a href="#-devops-systems--servers">DevOps</a> • 
+  <a href="#-databases--testing-tools">Databases</a>
 </p>
-<br />
+
+### 🌐 Blockchain & Web3 (Current Focus)
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=rust" width="40"/><br/><b>Rust</b><br/><sub>✦ ✦ ✦ ✧ ✧</sub><br/>Intermediate</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=solana" width="40"/><br/><b>Solana / Anchor</b><br/><sub>✦ ✦ ✧ ✧ ✧</sub><br/>Foundations</td>
+  </tr>
+</table>
+<p><i>Especializándome en el ecosistema Web3. Sólidos fundamentos de Rust y profundizando en el desarrollo de Smart Contracts y DApps (voto electrónico en desarrollo) utilizando Anchor Framework.</i></p>
+
+### 🗄️ Backend Development
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=java" width="40"/><br/><b>Java SE</b><br/><sub>✦ ✦ ✦ ✦ ✧</sub><br/>Advanced</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/><b>Node.js</b><br/><sub>✦ ✦ ✦ ✦ ✧</sub><br/>Advanced</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=express" width="40"/><br/><b>Express</b><br/><sub>✦ ✦ ✦ ✦ ✧</sub><br/>Advanced</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=ts" width="40"/><br/><b>TypeScript</b><br/><sub>✦ ✦ ✦ ✧ ✧</sub><br/>Intermediate</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=php" width="40"/><br/><b>PHP</b><br/><sub>✦ ✦ ✦ ✧ ✧</sub><br/>Intermediate</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=laravel" width="40"/><br/><b>Laravel</b><br/><sub>✦ ✦ ✧ ✧ ✧</sub><br/>Basic</td>
+  </tr>
+</table>
+<p><i>Desarrollo de lógica de negocio y APIs robustas. Experiencia avanzada en testing y arquitectura limpia en Java (JUnit, Mockito, Maven) y entornos JavaScript/TypeScript.</i></p>
+
+### 💻 Frontend Development
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/><b>JavaScript</b><br/><sub>✦ ✦ ✦ ✦ ✧</sub><br/>Advanced</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/><b>React</b><br/><sub>✦ ✦ ✦ ✦ ✧</sub><br/>Advanced</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/><b>Next.js</b><br/><sub>✦ ✦ ✦ ✧ ✧</sub><br/>Intermediate</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vite" width="40"/><br/><b>Vite</b><br/><sub>✦ ✦ ✦ ✦ ✧</sub><br/>Tools</td>
+  </tr>
+</table>
+
+### 🐋 DevOps, Systems & Servers
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br/><b>Linux OS</b><br/><sub>✦ ✦ ✦ ✦ ✧</sub><br/>Advanced</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br/><b>Docker</b><br/><sub>✦ ✦ ✦ ✧ ✧</sub><br/>Intermediate</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nginx" width="40"/><br/><b>Nginx</b><br/><sub>✦ ✦ ✧ ✧ ✧</sub><br/>Basic</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/><b>Git / GitHub</b><br/><sub>✦ ✦ ✦ ✦ ✧</sub><br/>Advanced</td>
+  </tr>
+</table>
+<p><i>Usuario avanzado de entornos GNU/Linux (Ubuntu, Debian, Fedora, Kali). Experiencia gestionando contenedores Docker para despliegue de microservicios, redes y entornos aislados. Servidores web con Apache Tomcat y Nginx.</i></p>
+
+### 🛢️ Databases & Testing Tools
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/><b>MySQL</b><br/><sub>✦ ✦ ✦ ✦ ✧</sub><br/>Intermediate</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/><b>MongoDB</b><br/><sub>✦ ✦ ✦ ✧ ✧</sub><br/>Intermediate</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/><b>PostgreSQL</b><br/><sub>⏳ 💡</sub><br/>Next Goal</td>
+  </tr>
+</table>
+<p><b>Ecosistema de datos y testing:</b> MariaDB, phpMyAdmin, Studio3T, MongoDB Compass. Testing de endpoints e integración con Thunder Client (VS Code). Control de conexiones mediante clientes JDBC.</p>
 
 ---
 
 :es:
 # 💫 Acerca de mí
 
-¡Hola! Soy un Desarrollador Backend con bases sólidas en arquitectura backend, automatización de infraestructura y desarrollo de aplicaciones web full-stack. Tengo experiencia práctica construyendo y desplegando aplicaciones escalables con Java, Node.js y Docker, y actualmente profundizo en sistemas de alto rendimiento con Rust e infraestructura descentralizada.
-Trabajo con una mentalidad DevSecOps — integrando ingeniería de software, ciberseguridad y automatización de infraestructura para entregar sistemas seguros y eficientes. Mi trayectoria en entornos de alta exigencia ha forjado un enfoque riguroso en integridad de datos, resolución analítica de problemas y disciplina de procesos.
+¡Hola! Soy un Desarrollador de Software enfocado en construir sistemas seguros y eficientes, especializándome en el ecosistema Rust y Web3. Con una base sólida en Java, Node.js y desarrollo web Full-Stack, combino la ingeniería de software con una mentalidad DevOps orientada a entornos Linux, utilizando activamente Docker para aislar entornos, bases de datos y microservicios.
 
-🔭 Enfoque actual: Servicios backend de alta disponibilidad, pipelines CI/CD seguros e infraestructura de nodos blockchain.
-🌱 Profundizando en: Rust (Axum, Foundry), Kubernetes y Seguridad de Sistemas (TEEs/Sandboxing).
-🚀 Meta a largo plazo: Diseñar infraestructura de próxima generación para sistemas descentralizados seguros y plataformas SaaS de alto rendimiento.
+Guiado por el rigor de procesos y la seguridad, actualmente me estoy enfocando en el desarrollo Blockchain, profundizando en Rust y smart contracts.
 
----
-
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bjcf/)
+* 🔭 **Enfoque actual:** Construcción de APIs REST robustas y aprendizaje del framework Solana/Anchor a través de aplicaciones descentralizadas prácticas.
+* 🌱 **Profundizando en:** Rust avanzado, arquitecturas Web3 y PostgreSQL.
+* 🚀 **Meta a largo plazo:** Diseñar infraestructura de alto rendimiento de próxima generación para redes descentralizadas y plataformas SaaS seguras.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bjcf-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjcf-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bjcf-dev&theme=tokyonight&hide_border=false" width="480" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bjcf-dev&theme=tokyonight&hide_border=false" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=bjcf-dev&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bjcf-dev&theme=tokyonight&area=true&category=commits" width="850" alt="Billy's GitHub Activity Graph" />
 </p>
